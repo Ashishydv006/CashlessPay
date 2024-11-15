@@ -1,0 +1,35 @@
+.fourth{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+.imagee{
+    width: 700px;
+}
+.imagee img{
+    width: 100%;
+}
+
+.haanding{
+ margin-top: 70px;
+}
+.haanding h1{
+    font-size: 65px;
+    line-height: 83%;
+    font-weight: 900;
+    text-transform: uppercase;
+    transform: scale(1, 1);
+    letter-spacing: 3px;
+}
+
+.haanding p{
+    font-size: 20px;
+    width: 400px;
+    margin-top: 20px;
+    font-family: 'Uncut Sans';
+    font-weight: normal;
+    color: black;
+}

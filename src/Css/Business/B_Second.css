@@ -1,0 +1,32 @@
+.b-second{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.b-main-second{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.second-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 20px;
+    overflow: hidden;
+}
+.second-box p{
+    font-size: 25px;
+    transform: scale(1, 1);
+    font-weight: 800;
+    color: white;
+}
+.second-box span{
+    width: 320px;
+    font-size: 18px;
+    font-family: 'Uncut Sans';
+    font-weight: normal;
+    color: white;
+}
